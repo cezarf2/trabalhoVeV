@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: RelatorioCinema
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: cezar
+Implementation-Vendor-Id: br.com.cinema
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/RelatorioCin
+ ema/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
